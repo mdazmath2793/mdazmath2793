@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Mohammed Azmathullah 👋
 
-<!--
-**mdazmath2793/mdazmath2793** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MSc Student** | Kent Business School, University of Kent  
+📍 Canterbury, United Kingdom  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 About Me
+- 📊 Focused on **Business Analytics**, machine learning algorithms, and data-driven decision-making.
+- 📈 Experienced in exploratory data analysis (EDA), predictive modeling, and business intelligence dashboards.
+- 🌱 Currently working on computational business projects and expanding technical skill sets in data analytics.
+- 💬 Ask me about: **Python, SQL, R, Data Visualisation, Predictive Analytics**.
+
+---
+
+### 🛠️ Tech Stack & Skills
+- **Programming & Scripting:** Python, R, SQL
+- **Data Analysis & ML:** Pandas, NumPy, Scikit-Learn, SciPy
+- **Data Visualisation & BI:** Power BI, Tableau, Matplotlib, Seaborn, Advanced Excel
+- **Development & Environments:** Git, GitHub, Jupyter Notebook, VS Code
+
+---
+
+### 📌 Featured Projects
+*(You can pin your top course and independent repositories here as you upload them)*
+
+- 🔹 **[Project Title 1: Predictive Analytics Model]**  
+  *Description of the business problem, dataset, tools used, and key findings.*  
+  `Python` `Machine Learning` `Pandas`
+
+- 🔹 **[Project Title 2: Business Intelligence Dashboard]**  
+  *Interactive visual analytics tracking business KPIs and performance metrics.*  
+  `Power BI / Tableau` `SQL` `Data Modeling`
+
+---
+
+### 📫 Connect With Me
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+- **Email:** m.shafeeullah@kent.ac.uk
